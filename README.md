@@ -1,6 +1,6 @@
 # Validator
 
-A simple, crazy type to hold validations of other types. 
+A potentially silly type to hold validations of other types. 
 
 ``` swift
 struct Person {
